@@ -139,7 +139,7 @@ main{
   
 }
 .main{
-  position: absolute;
+  position: fixed;
   z-index: 999;
   right: -500px;
   transition: all 1s;
